@@ -1,6 +1,5 @@
 # Three-Tier Web Application Deployment on AWS EKS using ArgoCD, Prometheus, Grafana, and Jenkins
 
-
 Welcome to the Three-Tier Web Application Deployment project! 🚀
 
 This repository contains the implementation of a Three-Tier Web Application using ReactJS, NodeJS, and MongoDB, deployed on AWS EKS. The project demonstrates a comprehensive DevOps setup using a variety of modern tools and best practices for a robust and scalable environment.
